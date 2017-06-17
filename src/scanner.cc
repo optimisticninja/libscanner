@@ -1,3 +1,5 @@
+#include <scanner.h>
+
 #include <cmath>
 #include <arpa/inet.h>
 #include <sys/socket.h>
